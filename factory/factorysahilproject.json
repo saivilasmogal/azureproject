@@ -1,0 +1,15 @@
+{
+	"name": "factorysahilproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb7d28a8-8107-4024-b1a2-db3cbe88ada1",
+		"tenantId": "72092374-2c57-43c5-a416-619e865875c4"
+	}
+}
